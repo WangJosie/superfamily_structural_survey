@@ -44,3 +44,11 @@
    #col3: representative footprint for corresponding superfamily->structure start position
    #col4: representative footprint for corresponding superfamily->structural stop position
    filename: nrpdb042416_e7_cdart
+
+
+#6) the representative structure in top 180 superfamily go through VAST survey to check if these represetative in a superfamily are have similarities in both sequence and  structure. 
+    #col2:superfamiy assignment (cl no in cdd)
+    #col3:pdbid
+    #col4:footprint start
+    #col5:footprint stop 
+    filenmae: 180_sf_structure_survey
